@@ -1,0 +1,14 @@
+{
+  "env": {
+	  ... personal configurations
+  },
+  "permissions": {
+    "ask": [
+      "Bash(git push*)"
+    ],
+    "defaultMode": "bypassPermissions"
+  },
+  "skipDangerousModePermissionPrompt": true,
+  "theme": "dark",
+  "skipAutoPermissionPrompt": true
+}
